@@ -28,7 +28,7 @@
   "main": "dist/postscribe.js",
   "browser": "dist/postscribe.js",
   "dependencies": {
-    "prescribe": "https://github.com/ayxos/prescribe/tarball/dist"
+    "prescribe": "https://github.com/smaato/prescribe/tarball/dist"
   },
   "devDependencies": {
     "babel-core": "6.20.0",
